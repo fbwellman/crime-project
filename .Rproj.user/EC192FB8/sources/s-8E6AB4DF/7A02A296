@@ -1,0 +1,27 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1604170815447.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2180478573",
+    "id" : "7A02A296",
+    "lastKnownWriteTime" : 1604352344,
+    "last_content_update" : 1604352344973,
+    "path" : "C:/Users/fbwellman/projects/murders/report.Rmd",
+    "project_path" : "report.Rmd",
+    "properties" : {
+        "cursorPosition" : "26,9",
+        "last_setup_crc32" : "8E6AB4DFbb338d19",
+        "scrollLine" : "23",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
